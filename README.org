@@ -1,0 +1,1 @@
+A lista de exercicios pode ser acessada por [[https://wiki.python.org.br/ListaDeExercicios][este link]].
