@@ -79,7 +79,6 @@
 
 17. Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
 
-
 18. Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
 
 19. Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
